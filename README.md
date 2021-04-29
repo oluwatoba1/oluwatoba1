@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Django
 - 👯 I’m looking to collaborate on 
 - 💬 Ask me about anything, I'd be glad to help
-- 📫 How to reach me: [mailto](mailto:tohbyy@gmail.com)
+- 📫 How to reach me: [tohbyy@gmail.com](mailto:tohbyy@gmail.com)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
