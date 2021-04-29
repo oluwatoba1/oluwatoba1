@@ -2,8 +2,8 @@
 
 - 🔭 I’m currently working on something cool
 - 🌱 I’m currently learning Django
-- 👯 I’m looking to collaborate on 
-- 💬 Ask me about anything, I'd be glad to help
+- 👯 I’m seeking to pick as much as I can from great minds
+- 💬 Ask me about anything and I'd be glad to help
 - 📫 How to reach me: [tohbyy@gmail.com](mailto:tohbyy@gmail.com)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
