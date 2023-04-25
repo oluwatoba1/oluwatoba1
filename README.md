@@ -6,6 +6,4 @@
 - 💬 Ask me about anything and I'd be glad to help
 - 📫 How to reach me: [tohbyy@gmail.com](mailto:tohbyy@gmail.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluwatoba1)](https://github.com/anuraghazra/github-readme-stats)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=oluwatoba1)](https://github.com/ryo-ma/github-profile-trophy)
