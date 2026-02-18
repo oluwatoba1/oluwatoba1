@@ -18,8 +18,15 @@ I'm a passionate **Software Engineer** specializing in building scalable backend
 
 > _These are just a few highlights from my extensive portfolio. I've selected them to demonstrate my expertise in building high-scale financial and enterprise systems._
 
-### 🥷 Shinobi (Fintech Backend Engine)
+### 🥷 Core banking platform
+> **Live Demo:** [dev.payrepmfb.com](https://dev.payrepmfb.com)
+
 A high-performance financial backend system designed to power modern digital banking and exchange services.
+
+<div align="center">
+  <img src="./images/shinobi_dashboard_1.png" alt="Deposit page" width="48%" />
+  <img src="./images/shinobi_dashboard_2.png" alt="Accounts page" width="48%" />
+</div>
 
 *   **Tech Stack:** Python, Django REST Framework, Celery, Redis, PostgreSQL.
 *   **Key Features:**
@@ -28,7 +35,15 @@ A high-performance financial backend system designed to power modern digital ban
     *   **Scalability:** Async task processing for high-volume transactions.
 
 ### 🏢 Cohessra (Enterprise SaaS Platform)
+> **Live Demo:** [dev-ledger-care.cohessra.com](https://dev-ledger-care.cohessra.com)
+
 A multi-tenant implementation management platform focused on organizational resilience and secure operations.
+
+<div align="center">
+  <img src="./images/cohessra_dashboard_2.png" alt="Cohessra Dashboard Overview" width="48%" />
+  <img src="./images/cohessra_dashboard_3.png" alt="Cohessra Cases" width="48%" />
+  <img src="./images/cohessra_dashboard_4.png" alt="Cohessra Invoices" width="48%" />
+</div>
 
 *   **Tech Stack:** TypeScript, NestJS, TypeORM, PostgreSQL, AWS.
 *   **Infrastructure as Code (IaC):**
