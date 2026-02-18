@@ -24,8 +24,9 @@ I'm a passionate **Software Engineer** specializing in building scalable backend
 A high-performance financial backend system designed to power modern digital banking and exchange services.
 
 <div align="center">
-  <img src="./images/shinobi_dashboard_1.png" alt="Deposit page" width="48%" />
-  <img src="./images/shinobi_dashboard_2.png" alt="Accounts page" width="48%" />
+  <img src="./images/payrep_login.png" alt="Login" width="30%" />
+  <img src="./images/payrep_dashboard_1.png" alt="Deposit" width="30%" />
+  <img src="./images/payrep_dashboard_2.png" alt="Terminals" width="30%" />
 </div>
 
 *   **Tech Stack:** Python, Django REST Framework, Celery, Redis, PostgreSQL.
@@ -40,9 +41,10 @@ A high-performance financial backend system designed to power modern digital ban
 A multi-tenant implementation management platform focused on organizational resilience and secure operations.
 
 <div align="center">
-  <img src="./images/cohessra_dashboard_2.png" alt="Cohessra Dashboard Overview" width="48%" />
-  <img src="./images/cohessra_dashboard_3.png" alt="Cohessra Cases" width="48%" />
-  <img src="./images/cohessra_dashboard_4.png" alt="Cohessra Invoices" width="48%" />
+  <img src="./images/cohessra_dashboard_v2_1.png" alt="Cohessra Dashboard" width="48%" />
+  <img src="./images/cohessra_dashboard_v2_2.png" alt="Cohessra Cases" width="48%" />
+  <img src="./images/cohessra_dashboard_v2_3.png" alt="Cohessra Appointments" width="48%" />
+  <img src="./images/cohessra_invoices.png" alt="Cohessra Invoices" width="48%" />
 </div>
 
 *   **Tech Stack:** TypeScript, NestJS, TypeORM, PostgreSQL, AWS.
